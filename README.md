@@ -6,7 +6,7 @@ This project aims to predict customer churn using machine learning algorithms. T
 The code is written in Python and follows PEP 8 style guidelines to ensure readability and maintainability. The data is read from a CSV file and cleaned and preprocessed using pandas. The models are trained using scikit-learn and the results are visualized using matplotlib.
 
 
-# Files description
+## Files description
 1. ***churn_notebook.ipynb***:
 -This is The notebook which the project runs and visualize data inside of it.
 
