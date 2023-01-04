@@ -1,0 +1,5 @@
+2023-01-03 13:30:55,188 Import data
+2023-01-03 13:30:55,232 Perform EDA
+2023-01-03 13:30:57,609 Encode categorical columns
+2023-01-03 13:30:59,977 Perform Feature Engineering and Split Train & Test data
+2023-01-03 13:31:02,006 Train and store model and results
